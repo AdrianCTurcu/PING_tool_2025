@@ -14,6 +14,6 @@ Funcționalități
 - **Copyright** în colț dreapta jos
 
 Captură de ecran
-![Descriere imagine](https://github.com/AdrianCTurcu/PING_tool_2025/blob/main/Ping_tool.jpg)
+![](https://github.com/AdrianCTurcu/PING_tool_2025/blob/main/Ping_tool.jpg)
 
 # Ping Tool by Adrian T 2025
